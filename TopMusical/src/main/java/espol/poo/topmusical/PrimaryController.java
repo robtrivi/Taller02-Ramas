@@ -68,7 +68,7 @@ public class PrimaryController {
             ex.printStackTrace();
         }
 
-        lblInfo.setText("Posición anterior: " + c.getPosPrevia() + "\n Semanas en Top: " + c.getSemanas());
+        lblInfo.setText("Posición anterior: " + c.getPosPrevia() + "\n Semanas en Top: " + c.getSemanas() +"\n Posición actual: " + c.getPosActual());
  
         System.out.println(c.getHistorialPos());
         //la actualización del historial se realiza en un hilo
