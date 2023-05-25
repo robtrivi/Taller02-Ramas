@@ -14,5 +14,5 @@
 ![AdrianEvidencia](Adrian-2.jpg)
 
 ## Acosta 
-![AcostaEvidencia](Acosta-I3.png)
+![AcostaEvidencia](Acosta-I3.jpg)
 
